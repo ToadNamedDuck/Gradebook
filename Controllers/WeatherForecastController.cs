@@ -1,3 +1,4 @@
+using Gradebook.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Gradebook.Controllers
